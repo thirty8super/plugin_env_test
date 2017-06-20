@@ -11,8 +11,8 @@
                  "layout" : "d-w=1&d-h=1&d-pad=5&d-bg=none&d-g-WIN_PDH=0-0-1-1"
                  }
   ],
-  "command" : "truesight-meter init.lua",
-  "command_lua" : "truesight-meter init.lua",
+  "command" : "truesight-luvit init.lua",
+  "command_lua" : "truesight-luvit init.lua",
   "postExtract" : "",
   "postExtract_lua" : "",
   "ignore" : "node_modules",
