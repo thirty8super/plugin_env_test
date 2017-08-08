@@ -16,6 +16,7 @@
   "postExtract" : "",
   "postExtract_lua" : "",
   "ignore" : "node_modules",
+  "hideParams" : true,
   "metrics" : ["DUMMY"],
   "paramSchema": [
      {
