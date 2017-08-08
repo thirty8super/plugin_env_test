@@ -1,6 +1,6 @@
 {
   "name" : "TrueSight Pulse Plugin Env Test",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "meterVersionRequired" : "4.7.0",
   "unsupportedPlatforms" : [ ],
   "tags" : "",
