@@ -19,12 +19,12 @@ print ("_bevent:"..plugin_info.name.." version " .. plugin_info.version .. " Sta
 
 file = io.open("local.env", "w")
 
-foo_var = os.getenv("FOO")
+foo_var = os.getenv("TSP_PLUGIN_PARAMS")
 if (foo_var == nil) then
 	foo_var = "NOT_SET"
 end
 
 file:write("Home : " .. os.getenv("HOME") .. "\n")
-file:write("Foo : " .. foo_var .. "\n")
+file:write("Plugin params : " .. foo_var .. "\n")
 file:close()
 
