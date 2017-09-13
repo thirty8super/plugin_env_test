@@ -4,6 +4,7 @@
   "meterVersionRequired" : "4.7.0",
   "unsupportedPlatforms" : [ ],
   "tags" : "",
+  "secure" : true,
   "description" : "Plugin env var test",
   "dashboards" : [
                  {
